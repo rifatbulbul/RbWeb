@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# İsteğe bağlı: bazı klasörleri tarama dışı bırakmak istersen örnekler
+# Disallow: /tmp/
+# Disallow: /private/
+
+Sitemap: https://rifatbulbul.com/sitemap.xml
